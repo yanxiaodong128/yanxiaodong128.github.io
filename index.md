@@ -20,13 +20,5 @@
 <div class="menu-item"><a href="fun.html">Misc.</a></div>
 </td>
 <td id="layout-content">
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-150369356-1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'UA-150369356-1');
 
 </html>
