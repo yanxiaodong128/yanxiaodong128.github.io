@@ -39,45 +39,56 @@
 严晓东(Xiaodong Yan)<br />
 山东大学中泰证券金融研究院副研究员，博士生导师<br />
 山东大学未来学者<br />
-(Associate Professor at Zhongtai Securities Institute for Financial Studies, Shandong University)<br />
-Email:yanxiaodong@sdu.edu.cn<br />
-通讯地址：山东省济南市山大南路27号，山东大学中泰证券金融研究院，邮编250100<br />
-(Mailing Address: No. 27 Shanda Nanlu,  Zhongtai Securities Institute for Financial Studies, Shandong University,
-Jinan City, Shandong Province, P.R. China. Post Code: 250100)
+(Associate Professor at Zhongtai Securities Institute for Financial Studies,<br /> 
+ Shandong University)
+<br />Email:yanxiaodong@sdu.edu.cn<br />
+通讯地址：山东省济南市山大南路27号，山东大学中泰证券金融研究院，
+<br />邮编250100<br />
+(Mailing Address: No. 27 Shanda Nanlu,  
+Zhongtai Securities Institute for<br /> Financial Studies, Shandong University,
+Jinan City, Shandong Province,<br /> P.R. China. Post Code: 250100)
 <br />
 </p>
 </td></tr></table>
-<h2>About Me</h2>
-<p>I am currently an Assistant Professor in the <a href="https://statistics.wharton.upenn.edu/">Department of Statistics and Data Science</a> at the Wharton School, <a href="https://www.upenn.edu/">University of Pennsylvania</a>. </p>
-<p>Before joining the University of Pennsylvania, I was an Assistant Professor in the
-<a href="http://www.stat.cmu.edu/">Department of Statistics and Data Science</a> at <a href="https://www.cmu.edu/">Carnegie Mellon University</a>, and I spent a year as a Stein's Fellow at <a href="https://statistics.stanford.edu/">Stanford Statistics Department</a>.
-I got my Ph.D. in Statistics at <a href="http://statistics.berkeley.edu/">Berkeley Statistics Department</a> advised by two amazing supervisors <a href="https://people.eecs.berkeley.edu/~wainwrig/">Martin Wainwright</a> and <a href="https://www.stat.berkeley.edu/~aditya/">Aditya Guntuboyina</a>; I was also associated with the Berkeley Artificial Intelligence Research group (<a href="http://bair.berkeley.edu/">BAIR</a>).</p>
-<p>My research interests lie broadly in the span of statistics, optimization and machine learning. 
-More specifically, I have been developing methods appropriate for valid inference with high dimensional and structured data, and understanding the sample efficiency in reinforcement learning. 
-I am also interested in problems arising from the interplay between statistical accuracy and computational properties. </p>
-<p>Here is a current copy of my <a href="documents/resume/Resume_Yuting_Wei.pdf">CV</a>.</p>
-<h2>Openings </h2>
-<p>I am currently looking for <b>students and postdocs</b> interested in high dimensional statistics and machine learning. Please email a CV to apply.</p>
-<h2>Education</h2>
-<ul>
-<li><p>Stanford University, Stein's Fellow / Lecturer, 2018 - 2019</p>
-</li>
-</ul>
-<ul>
-<li><p>University of California, Berkeley: Ph.D. in Statistics, 2013 - 2018</p>
-</li>
-</ul>
-<ul>
-<li><p>Peking University: Bachelor of Science (B.S.) Statistics, 2009 - 2013</p>
-</li>
-</ul>
-<ul>
-<li><p>Peking University: Bachelor of Arts (B.A.) Economics, 2010 - 2013</p>
-</li>
-</ul>
-<h2>Contact </h2>
-<p><a href="https://scholar.google.com/citations?user=fsbXdAYAAAAJ&amp;hl=en">Google Scholar Profile</a></p>
-<p><a href="https://www.linkedin.com/in/yuting-wei-32830a7b">LinkedIn Profile</a></p>
+<h2>研究兴趣(Research Interests)：</h2>
+<p>
+<p>1. 机器学习(Machine Learning)：</p>
+<p>Keywords: Semi-supervised learning；Deep Neural Networks；Random Forest；Social Network；Text mining.</p>
+<p>2. 应用统计(Applied Statistics)</p>
+<p>Keywords: High-Dimensional Data Analysis; Integrative Analysis;Model Averaging;</p>
+<p>Variable Selection and Screening; Missing Data; Survival Data, etc</p>
+<p>3. 计量经济(Econometrics)：</p>
+<p>Keywords:  Ambiguity；Model Uncertainty；Panel Data Model; Generalized Empirical Likelihood</p>
+<p>4.交叉应用研究</p>
+<p>（1）农作物保险定价模型研究</p>
+<p>（2）藏族人群高血压数据</p>
+<p>（3）营养运动数据+健康数据（手环记录）</p>
+<p>5.具体研究方向：</p>
+<p>（1）非线性期望下强化学习的统计推断研究</p>
+<p>（2）个性化统计模型的统计推断研究</p>
+<p>（3）面板数据的两维异质性分析</p>
+
+
+<h2>教育背景(Education Background)：</h2>
+<ul><li><p>Aug., 2021- Aug., 2022     Post-doc of  University of Alberta, Canada</p></li></ul>
+<ul><li><p>Dec., 2017- Apr., 2018     Post-doc of Hong Kong Polytechnic University, Hong Kong</p></li></ul>
+<ul><li><p>Oct., 2014-Dec., 2014     Research Assistant of the Chinese University of Hong Kong</p></li></ul>
+<ul><li><p>Sep., 2013- Dec.  2017   Joint PhD of the Hong Kong Polytechnic University and Yunnan University</p></li></ul>
+<ul><li><p>Sep., 2011-Jul., 2013      M.A. in Applied Statistics, Yunnan University, Yunnan, </p></li></ul>
+<ul><li><p>Sep., 2006 – Jul., 2010   B.Sc. in Information and Computing Science, Shandong Economic University, Shandong</p></li></ul>
+<h2>获奖及荣誉 (Awards and Honors)</h2>
+<p>Excellent Graduate Award, 2010</p>
+<p>Excellent Exchange Student Award of Shandong University, 2008</p>
+<p>First-class Scholarship of Shandong Economic University, 2007</p>
+<p>Wu Daguang Award, 2016</p>
+<p>Young Scholars Program of Shandong University，2018</p>
+<p>山东大学经济学院杰出青年</p>
+<p>2019年年度山东大学经济学院教职工人事考核优秀</p>
+<p>山东大学2019年工会先进个人</p>
+<p>山东大数据研究会2020年先进个人</p>
+<p>云南省优秀博士论文</p>
+
+
 <div id="footer">
 <div id="footer-text">
 Page generated 2021-10-25 15:29:28 PDT, by <a href="http://jemdoc.jaboc.net/">jemdoc</a>.
