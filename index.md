@@ -32,14 +32,20 @@
 <h1>Yuting Wei</h1>
 <table class="imgtable"><tr><td>
 <img src="严老师证件照.jpg"300" width="250px" />&nbsp;</td>
-<td align="left"><p>Assistant Professor <br />
-<a href="https://statistics.wharton.upenn.edu/">Wharton Statistics Department</a> <br /></p>
+<td align="left">
+
 <p><br />
-ytwei (at) wharton (dot) upenn (dot) edu <br />
-Statistics & Data Science,<br />
-Academic Research Building, <br />
-University of Pennsylvania,<br />
-Philadelphia, PA 19104</p>
+个人信息与联系方式(Personal and Contact Information):<br />
+严晓东(Xiaodong Yan)<br />
+山东大学中泰证券金融研究院副研究员，博士生导师<br />
+山东大学未来学者<br />
+(Associate Professor at Zhongtai Securities Institute for Financial Studies, Shandong University)<br />
+Email:yanxiaodong@sdu.edu.cn<br />
+通讯地址：山东省济南市山大南路27号，山东大学中泰证券金融研究院，邮编250100<br />
+(Mailing Address: No. 27 Shanda Nanlu,  Zhongtai Securities Institute for Financial Studies, Shandong University,
+Jinan City, Shandong Province, P.R. China. Post Code: 250100)
+<br />
+</p>
 </td></tr></table>
 <h2>About Me</h2>
 <p>I am currently an Assistant Professor in the <a href="https://statistics.wharton.upenn.edu/">Department of Statistics and Data Science</a> at the Wharton School, <a href="https://www.upenn.edu/">University of Pennsylvania</a>. </p>
