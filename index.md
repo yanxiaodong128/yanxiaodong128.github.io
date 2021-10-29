@@ -86,11 +86,7 @@ Jinan City, Shandong Province,<br /> P.R. China. Post Code: 250100)
 <p>山东大学2019年工会先进个人</p>
 <p>山东大数据研究会2020年先进个人</p>
 <p>云南省优秀博士论文</p>
-</td>
-</tr>
-</table>
-</body>
-</html>
+
 
 <div id="footer">
 <div id="footer-text">
