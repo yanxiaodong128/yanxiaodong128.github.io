@@ -20,5 +20,65 @@
 <div class="menu-item"><a href="fun.html">Misc.</a></div>
 </td>
 <td id="layout-content">
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-150369356-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
 
+  gtag('config', 'UA-150369356-1');
+</script>
+<h1>Yuting Wei</h1>
+<table class="imgtable"><tr><td>
+<img src="images/profile2.jpeg" alt="300" width="250px" />&nbsp;</td>
+<td align="left"><p>Assistant Professor <br />
+<a href="https://statistics.wharton.upenn.edu/">Wharton Statistics Department</a> <br /></p>
+<p><br />
+ytwei (at) wharton (dot) upenn (dot) edu <br />
+Statistics & Data Science,<br />
+Academic Research Building, <br />
+University of Pennsylvania,<br />
+Philadelphia, PA 19104</p>
+</td></tr></table>
+<h2>About Me</h2>
+<p>I am currently an Assistant Professor in the <a href="https://statistics.wharton.upenn.edu/">Department of Statistics and Data Science</a> at the Wharton School, <a href="https://www.upenn.edu/">University of Pennsylvania</a>. </p>
+<p>Before joining the University of Pennsylvania, I was an Assistant Professor in the
+<a href="http://www.stat.cmu.edu/">Department of Statistics and Data Science</a> at <a href="https://www.cmu.edu/">Carnegie Mellon University</a>, and I spent a year as a Stein's Fellow at <a href="https://statistics.stanford.edu/">Stanford Statistics Department</a>.
+I got my Ph.D. in Statistics at <a href="http://statistics.berkeley.edu/">Berkeley Statistics Department</a> advised by two amazing supervisors <a href="https://people.eecs.berkeley.edu/~wainwrig/">Martin Wainwright</a> and <a href="https://www.stat.berkeley.edu/~aditya/">Aditya Guntuboyina</a>; I was also associated with the Berkeley Artificial Intelligence Research group (<a href="http://bair.berkeley.edu/">BAIR</a>).</p>
+<p>My research interests lie broadly in the span of statistics, optimization and machine learning. 
+More specifically, I have been developing methods appropriate for valid inference with high dimensional and structured data, and understanding the sample efficiency in reinforcement learning. 
+I am also interested in problems arising from the interplay between statistical accuracy and computational properties. </p>
+<p>Here is a current copy of my <a href="documents/resume/Resume_Yuting_Wei.pdf">CV</a>.</p>
+<h2>Openings </h2>
+<p>I am currently looking for <b>students and postdocs</b> interested in high dimensional statistics and machine learning. Please email a CV to apply.</p>
+<h2>Education</h2>
+<ul>
+<li><p>Stanford University, Stein's Fellow / Lecturer, 2018 - 2019</p>
+</li>
+</ul>
+<ul>
+<li><p>University of California, Berkeley: Ph.D. in Statistics, 2013 - 2018</p>
+</li>
+</ul>
+<ul>
+<li><p>Peking University: Bachelor of Science (B.S.) Statistics, 2009 - 2013</p>
+</li>
+</ul>
+<ul>
+<li><p>Peking University: Bachelor of Arts (B.A.) Economics, 2010 - 2013</p>
+</li>
+</ul>
+<h2>Contact </h2>
+<p><a href="https://scholar.google.com/citations?user=fsbXdAYAAAAJ&amp;hl=en">Google Scholar Profile</a></p>
+<p><a href="https://www.linkedin.com/in/yuting-wei-32830a7b">LinkedIn Profile</a></p>
+<div id="footer">
+<div id="footer-text">
+Page generated 2021-10-25 15:29:28 PDT, by <a href="http://jemdoc.jaboc.net/">jemdoc</a>.
+</div>
+</div>
+</td>
+</tr>
+</table>
+</body>
 </html>
