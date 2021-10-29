@@ -15,7 +15,7 @@
 <div class="menu-item"><a href="index.html" class="current">Bio</a></div>
 <div class="menu-item"><a href="publications.html">Research</a></div>
 <div class="menu-item"><a href="teaching.html">Teaching</a></div>
-<div class="menu-item"><a href="experience.html">Talks</a></div>
+<div class="menu-item"><a href="experience.html">学术及社会兼职</a></div>
 <div class="menu-item"><a href="group.html">Group</a></div>
 <div class="menu-item"><a href="fun.html">Misc.</a></div>
 </td>
