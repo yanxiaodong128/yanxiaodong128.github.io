@@ -31,7 +31,7 @@
 </script>
 <h1>Yuting Wei</h1>
 <table class="imgtable"><tr><td>
-<img src="images/profile2.jpeg" alt="300" width="250px" />&nbsp;</td>
+<img src="严老师证件照.jpg"300" width="250px" />&nbsp;</td>
 <td align="left"><p>Assistant Professor <br />
 <a href="https://statistics.wharton.upenn.edu/">Wharton Statistics Department</a> <br /></p>
 <p><br />
