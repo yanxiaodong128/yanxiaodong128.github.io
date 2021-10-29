@@ -29,7 +29,7 @@
 
   gtag('config', 'UA-150369356-1');
 </script>
-<h1>Yuting Wei</h1>
+<h1>Xiaodong Yan</h1>
 <table class="imgtable"><tr><td>
 <img src="严老师证件照.jpg"300" width="250px" />&nbsp;</td>
 <td align="left">
